@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>新尘客</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-06-05T19:21:33.594Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>新尘客</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>从心而起的美——《谈美》读后感</title>
+    <link href="http://yoursite.com/2020/06/05/%E4%BB%8E%E5%BF%83%E8%80%8C%E8%B5%B7%E7%9A%84%E7%BE%8E%E2%80%94%E2%80%94%E3%80%8A%E8%B0%88%E7%BE%8E%E3%80%8B%E8%AF%BB%E5%90%8E%E6%84%9F/"/>
+    <id>http://yoursite.com/2020/06/05/%E4%BB%8E%E5%BF%83%E8%80%8C%E8%B5%B7%E7%9A%84%E7%BE%8E%E2%80%94%E2%80%94%E3%80%8A%E8%B0%88%E7%BE%8E%E3%80%8B%E8%AF%BB%E5%90%8E%E6%84%9F/</id>
+    <published>2020-06-04T21:40:42.000Z</published>
+    <updated>2020-06-05T19:21:33.594Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;什么是美？什么是丑？如何体会美？如何创造美？&lt;/p&gt;
+&lt;p&gt;很小的时候，对世界是懵懂的，既不识“天行健”的刚健之美，也不懂“上善如水”的柔性之美。更多的是随声而和“鹅鹅鹅，曲项向天歌。白毛浮绿水，红掌拨清波”，问我这中间有什么美，是不知的。只知道鹅这种东西，它叫的时候会弯着脖子，长着一身白毛，一双红掌，会在水中游着。现在看来，那时候的我还处在对鹅这一动物实体的认识上，更关注于它的形态、叫声、动作上，至于联想，最多也就想到鸡鸭——形态相似。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="随笔" scheme="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="随笔,点滴" scheme="http://yoursite.com/tags/%E9%9A%8F%E7%AC%94-%E7%82%B9%E6%BB%B4/"/>
+    
+  </entry>
+  
+</feed>
